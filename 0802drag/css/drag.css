@@ -1,0 +1,26 @@
+.container {
+  background-color: gray;
+  padding: 30px;
+  margin: 10px;
+}
+.container2 {
+  background-color: lightblue;
+  padding: 30px;
+  margin: 10px;
+}
+button {
+  width: 70px;
+  height: 70px;
+  border: none;
+  font-size: 30px;
+  background-color: #ccc;
+  margin: 10px;
+}
+#appenChildBtn {
+  width: 100px;
+  font-size: 12px;
+}
+.dragging {
+  opacity: 0.5;
+  border: 1px solid gray;
+}
